@@ -4,6 +4,15 @@
 
 ---
 
+## 📫 Contact Me
+[![Gmail](https://img.shields.io/badge/Email-alifborno@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alifborno@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alif%20Riasat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alif-riasat-b72901229/)  
+[![Facebook](https://img.shields.io/badge/Facebook-Alif%20Riasat-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/alif.riasat.5)  
+[![Instagram](https://img.shields.io/badge/Instagram-@the_blu_neutron-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/the_blu_neutron/)
+
+
+---
+
 ## 🔭 Currently Working On
 - Exploring **Data Science & Machine Learning**
 - Learning **Database Management System**
@@ -40,17 +49,7 @@
 ![Alif's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alif-Riasat&show_icons=true&theme=radical&count_private=true&cache_seconds=0)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alif-Riasat&layout=compact&theme=radical&cache_seconds=0)
 
-
----
-
-## 📫 Contact Me
-- **Email:** alifborno@gmail.com  
-- **LinkedIn:** [Alif Riasat](https://www.linkedin.com/in/alif-riasat-b72901229/)  
-- **Facebook:** [Alif Riasat](https://www.facebook.com/alif.riasat.5)  
-- **Instagram:** [the_blu_neutron](https://www.instagram.com/the_blu_neutron/)  
- 
 ---
 
 ### ⚡ Fun Fact
-- Love watching **Sherlock, Squid Game, Alice in Borderland,Breaking Bad,Better Call Saul,Dark**.
-
+- Love watching **Sherlock, Squid Game, Alice in Borderland, Breaking Bad, Better Call Saul, Dark**.
