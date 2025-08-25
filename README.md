@@ -37,7 +37,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Alif's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alif-Riasat&show_icons=true&theme=radical&count_private=true)  
+![Alif's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alif-Riasat&show_icons=true&theme=radical&count_private=true&cache_seconds=0)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alif-Riasat&layout=compact&theme=radical)
 
 ---
