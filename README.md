@@ -13,7 +13,6 @@
 ## 🌱 Learning
 - Advanced **Data Structures & Algorithms**
 - **Machine Learning & Data Science**
-- Web Development: HTML, CSS, JSP, Servlets
 
 ---
 
