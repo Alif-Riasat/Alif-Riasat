@@ -1,11 +1,12 @@
 # Hi there 👋, I'm Alif Riasat
 
-I'm an **ICT undergraduate student** passionate about **programming, DSA, machine learning, and web development**. I enjoy building projects and exploring new tech.
+**ICT undergraduate student** passionate about **Programming, Problem Solving, DSA, Machine Learning, and Web Development**. I enjoy building projects and exploring new tech.
 
 ---
 
 ## 🔭 Currently Working On
 - Exploring **Data Science & Machine Learning**
+- Learning Database Management System
 
 ---
 
@@ -46,7 +47,7 @@ I'm an **ICT undergraduate student** passionate about **programming, DSA, machin
 - **Email:** alifborno@gmail.com  
 - **LinkedIn:** [Alif Riasat](https://www.linkedin.com/in/alif-riasat-b72901229/)  
 - **Facebook:** [Alif Riasat](https://www.facebook.com/alif.riasat.5)  
-- **Instagram:** [the_blu_neutron]([https://www.instagram.com/YOUR_INSTAGRAM](https://www.instagram.com/the_blu_neutron/))  
+- **Instagram:** [the_blu_neutron](https://www.instagram.com/the_blu_neutron/)  
  
 ---
 
