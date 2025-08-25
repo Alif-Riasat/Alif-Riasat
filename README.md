@@ -22,6 +22,7 @@ I'm an **ICT undergraduate student** passionate about **programming, DSA, machin
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -38,18 +39,18 @@ I'm an **ICT undergraduate student** passionate about **programming, DSA, machin
 ---
 
 ## 📊 GitHub Stats
-![Alif's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Alif's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alif-Riasat&show_icons=true&theme=radical&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alif-Riasat&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Contact Me
-- **Email:** alifborno@gmail.com | amdadulhaque1203@gmail.com
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN)
-- **Portfolio:** [Your Portfolio](https://YOUR_WEBSITE)
+- **Email:** alifborno@gmail.com
+- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/alif-riasat-b72901229/)
+
 
 ---
 
 ### ⚡ Fun Fact
-- Love watching **Sherlock, Squid Game, Alice in Borderland**.
-- Exploring **oxidized jewelry business ideas**.
+- Love watching **Sherlock, Squid Game, Alice in Borderland,Breaking Bad,Better Call Saul,Dark**.
+
