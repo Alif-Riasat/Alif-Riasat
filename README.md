@@ -6,7 +6,7 @@
 
 ## 🔭 Currently Working On
 - Exploring **Data Science & Machine Learning**
-- Learning Database Management System
+- Learning **Database Management System**
 
 ---
 
