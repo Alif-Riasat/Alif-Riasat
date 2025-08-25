@@ -5,8 +5,6 @@ I'm an **ICT undergraduate student** passionate about **programming, DSA, machin
 ---
 
 ## 🔭 Currently Working On
-- **Smart Wallet Application** in Java Swing with modern UI
-- **Career Roadmap Generator** (JSP & Servlet-based)
 - Exploring **Data Science & Machine Learning**
 
 ---
@@ -45,10 +43,11 @@ I'm an **ICT undergraduate student** passionate about **programming, DSA, machin
 ---
 
 ## 📫 Contact Me
-- **Email:** alifborno@gmail.com
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/alif-riasat-b72901229/)
-
-
+- **Email:** alifborno@gmail.com  
+- **LinkedIn:** [Alif Riasat](https://www.linkedin.com/in/alif-riasat-b72901229/)  
+- **Facebook:** [Alif Riasat](https://www.facebook.com/alif.riasat.5)  
+- **Instagram:** [the_blu_neutron]([https://www.instagram.com/YOUR_INSTAGRAM](https://www.instagram.com/the_blu_neutron/))  
+ 
 ---
 
 ### ⚡ Fun Fact
