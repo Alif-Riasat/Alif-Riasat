@@ -4,7 +4,12 @@
 
 ---
 
-## 📫 Contact Me - **Email:** alifborno@gmail.com - **LinkedIn:** [Alif Riasat](https://www.linkedin.com/in/alif-riasat-b72901229/) - **Facebook:** [Alif Riasat](https://www.facebook.com/alif.riasat.5) - **Instagram:** [the_blu_neutron](https://www.instagram.com/the_blu_neutron/) ---
+## 📫 Contact Me
+[![Gmail](https://img.shields.io/badge/Email-alifborno@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alifborno@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alif%20Riasat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alif-riasat-b72901229/)  
+[![Facebook](https://img.shields.io/badge/Facebook-Alif%20Riasat-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/alif.riasat.5)  
+[![Instagram](https://img.shields.io/badge/Instagram-@the_blu_neutron-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/the_blu_neutron/)
+
 
 
 ---
