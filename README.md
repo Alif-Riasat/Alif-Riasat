@@ -4,25 +4,7 @@
 
 ---
 
-## 📫 Connect with me
-
-<p align="left">
-  <a href="mailto:alifborno@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
-  <a href="https://www.facebook.com/your-facebook-username" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  
-  <a href="https://www.instagram.com/your-instagram-username" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+## 📫 Contact Me - **Email:** alifborno@gmail.com - **LinkedIn:** [Alif Riasat](https://www.linkedin.com/in/alif-riasat-b72901229/) - **Facebook:** [Alif Riasat](https://www.facebook.com/alif.riasat.5) - **Instagram:** [the_blu_neutron](https://www.instagram.com/the_blu_neutron/) ---
 
 
 ---
