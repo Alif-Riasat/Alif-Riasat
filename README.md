@@ -4,11 +4,25 @@
 
 ---
 
-## 📫 Contact Me
-[![Gmail](https://img.shields.io/badge/Email-alifborno@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alifborno@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alif%20Riasat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alif-riasat-b72901229/)  
-[![Facebook](https://img.shields.io/badge/Facebook-Alif%20Riasat-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/alif.riasat.5)  
-[![Instagram](https://img.shields.io/badge/Instagram-@the_blu_neutron-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/the_blu_neutron/)
+## 📫 Connect with me
+
+<p align="left">
+  <a href="mailto:alifborno@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://www.facebook.com/your-facebook-username" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  
+  <a href="https://www.instagram.com/your-instagram-username" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 
 ---
