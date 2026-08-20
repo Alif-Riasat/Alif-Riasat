@@ -16,13 +16,8 @@
 
 ## 🔭 Currently Working On
 - Exploring **Data Science & Machine Learning**
-- Learning **Database Management System**
 
 ---
-
-## 🌱 Learning
-- Advanced **Data Structures & Algorithms**
-- **Machine Learning & Data Science**
 
 ---
 
