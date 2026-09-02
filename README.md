@@ -105,13 +105,6 @@ I'm a aspiring **Researcher** passionate about building innovative solutions and
   </a>
 </div>
 
----
-
-## 🎵 Now Playing
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
-
----
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
