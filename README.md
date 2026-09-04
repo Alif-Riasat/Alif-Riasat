@@ -49,21 +49,17 @@ I'm a aspiring **Researcher** passionate about building innovative solutions and
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
-
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alif-Riasat&show_icons=true&theme=radical&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alif-Riasat&layout=compact&theme=radical"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alif-Riasat&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alif-Riasat&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak"/>
-</div>
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alif-Riasat&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 ---
-
 ## 📫 Connect with Me
 
 <div align="center">
